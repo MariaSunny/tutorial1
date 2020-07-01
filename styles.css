@@ -3,3 +3,13 @@
         display: none;
     }
 }
+@media (min-width: 700px) {
+    body {
+        background-color: papayawhip;
+    }
+}
+@media (max-width: 699px) {
+    body {
+        background-color: plum;
+    }
+}
